@@ -151,7 +151,7 @@ Enter:
 C:\Users\YourUsername\Desktop\Project testing
 ```
 
-Replace `YourUsername` with your actual Windows username.
+Replace with your actual path.
 
 Press Enter to start organizing the files.
 
