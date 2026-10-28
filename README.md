@@ -81,10 +81,8 @@ If the project is hosted on GitHub, open its repository and download the ZIP fil
 Alternatively, clone the repository using Git:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/HrigvedS/AutomaticFileOrganizer
 ```
-
-Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
 
 Navigate to the project directory:
 
@@ -97,7 +95,7 @@ cd YOUR_PROJECT_FOLDER
 If the project does not already contain the Python script, create a file named:
 
 ```text
-file_organizer.py
+AutomaticFileOrganizer.py
 ```
 
 Paste the complete Automatic File Organizer Python code into this file and save it.
@@ -123,18 +121,18 @@ Place some sample files inside it, such as:
 
 ### Step 5: Run the Program
 
-Open a terminal in the directory containing `file_organizer.py`.
+Open a terminal in the directory containing `AutomaticFileOrganizer.py`.
 
 Execute the following command:
 
 ```bash
-python file_organizer.py
+python AutomaticFileOrganizer.py
 ```
 
 On Windows, you can also use:
 
 ```bash
-py file_organizer.py
+py AutomaticFileOrganizer.py
 ```
 
 ### Step 6: Enter the Folder Path
